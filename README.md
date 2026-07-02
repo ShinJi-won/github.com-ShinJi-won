@@ -1,6 +1,6 @@
 <!-- 상단 배너 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DD5FA,100:2980B9&height=200&section=header&text=Hello,%20I'm%20홍길동&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DD5FA,100:2980B9&height=200&section=header&text=Hello,%20I'm%20신지원 강사&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <!-- 타이핑 애니메이션 -->
